@@ -1,0 +1,6 @@
+@InfoManagementApi_HostAddress = http://localhost:5052
+
+GET {{InfoManagementApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
