@@ -2,7 +2,7 @@
 using System;
 using InformationManagaemenrServices;
 
-namespace AdministrativeManagementSystemClient
+namespace InformationManagement
 {
     internal class Program
     {

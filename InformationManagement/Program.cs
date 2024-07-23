@@ -3,7 +3,7 @@ using InfoManagementModel;
 using System;
 using System.Collections.Generic;
 
-namespace AdministrativeManagementSystemClient
+namespace InformationManagenment
 {
     internal class Program
     {
