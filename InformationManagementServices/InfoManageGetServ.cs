@@ -1,10 +1,9 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using InformationManagaemenrServices;
+
 
 namespace InformationManagement
 {
@@ -36,27 +35,4 @@ namespace InformationManagement
         }
 
 
-        public object CreateUser(string firstname, string password, string lastname, string email, string contactnumber, string address, string password1)
-        {
-            throw new NotImplementedException();
-        }
-
-        public object UpdateInfoT(string firstname, string password, string lastname, string email, string contactnumber)
-        {
-            throw new NotImplementedException();
-        }
-
-        public object UpdateInfoT(string firstname, string password)
-        {
-            throw new NotImplementedException();
-        }
-
-        public object CreateUser(string firstname, string password)
-        {
-            throw new NotImplementedException();
-        }
-
-
-    }
-}
 
