@@ -16,7 +16,7 @@ namespace InformationManagement
 
             using (SqlConnection sqlConnection = new SqlConnection(connectionString))
             {
-                string SELECT = "SELECT * FROM UserInfos"; // Adjust table name as needed
+                string SELECT = "SELECT * FROM UserInfos";
                 SqlCommand selectCommand = new SqlCommand(SELECT, sqlConnection);
 
                 sqlConnection.Open();
